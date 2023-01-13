@@ -1,4 +1,6 @@
-# This is a calculator made using React and one of it's hooks i.e useReducer. This calculator includes all basic functions such as:
+# This is a calculator made using React and one of it's hooks i.e useReducer. 
+
+This calculator includes all basic functions such as:
 
 1. Addition
 2. Subtraction
@@ -13,4 +15,4 @@ In the project directory, you can run:
 
 ### `npm start`
 
-You can also test it using the website link attached on the right, it has been deployed on GitHub pages.
+You can also test it using the website link attached on the right, it has been deployed on `GitHub pages`.
